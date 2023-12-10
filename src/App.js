@@ -107,6 +107,7 @@ function App() {
 				<p>Byron Alexis R. Reyes</p>
 				<p>Justin ken Lopez</p>
 				<p>Miguelito C. Roque</p>
+				<p>Patrick M. Padilla</p>
 				<ResultView history={state.history} output={state.displayValue} />
 				<Keyboard onClick={onClick} />
 			</div>
