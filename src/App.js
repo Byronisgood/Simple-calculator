@@ -105,6 +105,8 @@ function App() {
 			<div className="container">
 				<h1>My Calculator</h1>
 				<p>Byron Alexis R. Reyes</p>
+				<p>Justin ken Lopez</p>
+				<p>Miguelito C. Roque</p>
 				<ResultView history={state.history} output={state.displayValue} />
 				<Keyboard onClick={onClick} />
 			</div>
