@@ -13,3 +13,5 @@ in terminal type:
 
 npm start
 
+Demo live:
+https://byronisgood.github.io/Simple-calculator/
